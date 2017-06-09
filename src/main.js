@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import VueFire from 'vuefire'
 
 import 'font-awesome/css/font-awesome.css'
 import 'admin-lte/bootstrap/css/bootstrap.css'
@@ -15,9 +16,10 @@ import 'admin-lte/plugins/datatables/jquery.dataTables.js'
 import 'admin-lte/plugins/datatables/dataTables.bootstrap.js'
 import 'admin-lte/plugins/slimScroll/jquery.slimscroll.js'
 import 'admin-lte/plugins/fastclick/fastclick.js'
-import 'admin-lte/dist/js/app.js'
+import './assets/adminlte.js'
 
 Vue.config.productionTip = false
+Vue.use(VueFire)
 
 /* eslint-disable no-new */
 new Vue({

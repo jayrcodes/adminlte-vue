@@ -1,5 +1,3 @@
-/*eslint eqeqeq:0*/
-/* eslint-disable no-use-before-define */
 
 /*! AdminLTE app.js
 * ================
@@ -998,4 +996,3 @@ throw new Error('AdminLTE requires jQuery')
 
 }(jQuery)
 
-/* eslint-enable no-use-before-define */
