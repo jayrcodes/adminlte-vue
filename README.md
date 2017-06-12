@@ -1,6 +1,11 @@
-# vueapp
+# VueJS2 AdminLTE Integration
 
-> A Vue.js project
+> NodeJS Version: v7.10.0
+> VueJS Version: 2.3.3 
+
+## Live Demo
+
+[Demo Here](https://vueapp-1c858.firebaseapp.com)
 
 ## Build Setup
 
@@ -16,6 +21,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+(c) Jay-r Albano
+
